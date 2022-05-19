@@ -1,0 +1,155 @@
+[{
+  "_id": {
+    "$oid": "623cba70b1cff7b8d017c4ed"
+  },
+  "totalForSale": 50,
+  "cost": 550,
+  "viewName": "Normal Camping - 1 Day",
+  "isActive": false,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648147056850"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623cba7bb1cff7b8d017c4f0"
+  },
+  "totalForSale": 150,
+  "cost": 750,
+  "viewName": "Normal Camping - 2 Days",
+  "isActive": false,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648060667731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623d96cb9b6faff46335b225"
+  },
+  "totalForSale": 4,
+  "cost": 3700,
+  "viewName": "(SOLD OUT) Glamping - Bush Tent - 2 Days - 2 People",
+  "isActive": true,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647974267731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623d97079b6faff46335b226"
+  },
+  "totalForSale": 4,
+  "cost": 6920,
+  "viewName": "(SOLD OUT) Glamping - Family Bush Tent - 2 Days - 4 People",
+  "isActive": true,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647887867731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623d97889b6faff46335b227"
+  },
+  "totalForSale": 25,
+  "cost": 2500,
+  "viewName": "Plug & Play Amabush Tent - 2 Days - 2 People",
+  "isActive": true,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647801467731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "623dc8f4258e4b23691bb82e"
+  },
+  "totalForSale": 30000,
+  "cost": 1,
+  "viewName": "Test",
+  "isActive": false,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1647801467731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6252c228593b8493b52e7e4d"
+  },
+  "totalForSale": 50,
+  "cost": 700,
+  "viewName": "Normal Camping - 1 Day",
+  "isActive": false,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648147056850"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6252c241593b8493b52e7e4e"
+  },
+  "totalForSale": 150,
+  "cost": 950,
+  "viewName": "Normal Camping - 2 Days",
+  "isActive": false,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648060667731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6277c32f432ae99c803dea2f"
+  },
+  "totalForSale": 999999,
+  "cost": 0,
+  "viewName": "Complimentary",
+  "isActive": false,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648060667731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628132ce05df2b6c1dc37bb7"
+  },
+  "totalForSale": 150,
+  "cost": 1250,
+  "viewName": "Normal Camping - 2 Days",
+  "isActive": true,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648060667731"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "628132f305df2b6c1dc37bb8"
+  },
+  "totalForSale": 50,
+  "cost": 850,
+  "viewName": "Normal Camping - 1 Day",
+  "isActive": true,
+  "event": "May - 2022",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1648147056850"
+    }
+  }
+}]
